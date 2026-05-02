@@ -8,3 +8,7 @@ node_modules/
 **/.eslintcache
 build/
 **/build/
+.npm-cache/
+**/.npm-cache/
+node_modules.partial-install*/
+**/node_modules.partial-install*/
