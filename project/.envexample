@@ -1,0 +1,5 @@
+NODE_ENV = development
+PORT = 5001
+MONGO_URI = mongodb+srv://<username>:<password>@cluster0.yggnydh.mongodb.net/project?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET = your_jwt_secret
+MONGO_TLS_ALLOW_INVALID_CERTIFICATES = false
